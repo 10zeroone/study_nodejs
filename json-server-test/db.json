@@ -1,0 +1,36 @@
+{
+  "languages": [
+    {
+      "language": "JSP",
+      "id": 1002
+    },
+    {
+      "id": 1003,
+      "language": "javascript"
+    },
+    {
+      "id": 1004,
+      "language": "jQuery"
+    }
+  ],
+  "students": [
+    {
+      "id": 2001,
+      "name": "HongGilDong",
+      "age": 32,
+      "gender": "male"
+    },
+    {
+      "id": 2002,
+      "name": "KimYuna",
+      "age": 27,
+      "gender": "female"
+    },
+    {
+      "id": 2002,
+      "name": "MinJun",
+      "age": 18,
+      "gender": "male"
+    }
+  ]
+}
